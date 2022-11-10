@@ -6,7 +6,6 @@ class HomeHederForm extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    //나중에 배치 완성하기
     return Align(
       alignment: Alignment(-0.6, 0),
       child: Container(

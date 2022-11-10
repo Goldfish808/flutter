@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_airbnb/components/home/home_header_appbar.dart';
 import 'package:flutter_airbnb/components/home/home_header_form.dart';
+import 'package:flutter_airbnb/constants.dart';
 import 'package:flutter_airbnb/size.dart';
 
 class HomeHeader extends StatelessWidget {
